@@ -1,0 +1,1 @@
+# jsDelivr CDN statics
