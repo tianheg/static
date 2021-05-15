@@ -1,18 +1,18 @@
 # jsDelivr CDN static
 
-### Usage:
+## Usage:
 
 ```text
 https://cdn.jsdeliver.net/gh/[user]/[repo]@[branch]/[something].[jpg/css/js]
 ```
 
-### Demo:
+## Demo:
 
 ```text
-https://cdn.jsdelivr.net/gh/tianheg/static@main/img/xxx.jpg
+https://cdn.jsdelivr.net/gh/tianheg/static@main/img/xxx.jpg # apng | avif | gif | jpg,jpeg,jfif,pjpeg,pjp | png | svg | webp
 ```
 
-### Intro
+## Intro
 
  分支 | 用处 | 链接
  --- | --- | ---
