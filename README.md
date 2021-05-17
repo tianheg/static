@@ -9,7 +9,7 @@ https://cdn.jsdeliver.net/gh/[user]/[repo]@[branch]/[something].[jpg/css/js]
 ## Demo:
 
 ```text
-https://cdn.jsdelivr.net/gh/tianheg/static@main/img/xxx.jpg # apng | avif | gif | jpg,jpeg,jfif,pjpeg,pjp | png | svg | webp
+https://cdn.jsdelivr.net/gh/tianheg/static@main/img/xxx.png # apng | avif | gif | jpg,jpeg,jfif,pjpeg,pjp | png | svg | webp
 ```
 
 ## Intro
