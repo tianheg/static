@@ -3,7 +3,7 @@
 ## Usage:
 
 ```text
-https://cdn.jsdeliver.net/gh/[user]/[repo]@[branch]/[something].[jpg/css/js]
+https://cdn.jsdelivr.net/gh/[user]/[repo]@[branch]/[something].[jpg/css/js]
 ```
 
 ## Demo:
