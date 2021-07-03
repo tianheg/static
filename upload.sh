@@ -1,5 +1,5 @@
 #!/bin/bash
 
-git a
-git ci "Upload"
-git sm
+git add --all
+git commit -m "Upload"
+git push origin main
